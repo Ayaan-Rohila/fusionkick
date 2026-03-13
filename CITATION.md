@@ -1,13 +1,11 @@
 # Citation
 
-If you use FusionKick or its simulation code in your research, please cite:
-
 ```bibtex
 @article{khan2025fusionkick,
   title   = {FusionKick: A Temporal Fusion Transformer Framework for Multi-Modal Wearable Sports Analytics},
   author  = {Khan, Ayaan Ahmed},
   journal = {[Journal Name]},
-  year    = {2025},
+  year    = {2026},
   note    = {Under review}
 }
 ```
