@@ -2,7 +2,7 @@
 
 **A Temporal Fusion Transformer Framework for Multi-Modal Wearable Sports Analytics**
 
-> *Ayaan Ahmed Khan — Parul University*  
+> *Ayaan Ahmed Khan   
 > Paper under review | [Preprint coming soon]
 
 ---
@@ -125,5 +125,4 @@ MIT License. See `LICENSE`.
 
 ## Contact
 
-Ayaan Ahmed Khan — mt24x7@gmail.com  
-Parul University, Department of Computer Science and Engineering
+Ayaan Ahmed Khan — ayaan0703rohila@gmail.com  
